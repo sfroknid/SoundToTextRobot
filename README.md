@@ -1,14 +1,4 @@
-# SoundToTextRobot Project
 
-## Overview
-
-**SoundToTextRobot** is a speech-to-text conversion project developed in Python. The main purpose of this project is to provide a flexible and reliable system for converting voice messages and audio files into text using different speech recognition technologies.
-
-The project has been implemented in several versions, starting from a simple speech recognition approach and progressing toward advanced AI-based solutions using **OpenAI Whisper** and **Google Speech-to-Text**. Each version has different advantages in terms of accuracy, speed, offline capability, and dependency on external services.
-
-The current implementation is developed for the **Bale messenger platform**, but the architecture is designed in a way that allows easy migration and integration with other messaging platforms such as **Telegram**.
-
----
 
 # Project Versions
 
